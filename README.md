@@ -1,1 +1,1 @@
-# Cricket - Data Analytics using PowerBI
+# Data Analytics Project using PowerBI
