@@ -21,13 +21,13 @@ Welcome to the world of Cricket Data Insights! 🏏 This project is centered aro
 
 # Dashboard Highlights:
 1. Power Hitters
-![Power_hitters](Screenshots/Power Hitters.png)
+![Power_hitters](Screenshots/Power_Hitters.png)
 2. Anchors
 ![Anchors](Screenshots/Anchors.png)
 3. Finishers
 ![Finishers](Screenshots/Finishers.png)
 4. All Rounders
-![All_rounders](Screenshots/All rounders.png)
+![All_rounders](Screenshots/All_rounders.png)
 5. Batsmen
 ![Batsmen](Screenshots/Batters.png)
 6. Finall 11 Pick
